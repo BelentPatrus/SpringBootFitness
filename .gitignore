@@ -1,0 +1,19 @@
+# Maven wrapper
+SpringBootFirst/.mvn/
+SpringBootFirst/mvnw
+SpringBootFirst/mvnw.cmd
+
+# Eclipse IDE files
+spring1/.classpath
+spring1/.project
+spring1/.settings/
+.metadata/
+
+# Build output (target directory)
+spring1/target/
+
+# IDE or OS-specific files
+*.iml
+*.log
+*.tmp
+*.bak
